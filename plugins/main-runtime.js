@@ -10,7 +10,7 @@ m.react('⏳')
       }) * 1000
     }
     let muptime = clockString(_muptime)
-    let str = `🟢ᴘʀɪɴᴄᴇ ᴍᴅ ᴜᴘᴛɪᴍᴇ\n\n🎗️ʙᴏᴛ ᴀᴄᴛɪᴠᴇ ᴅᴜʀᴀᴛɪᴏɴ\n *${muptime}⏰*`
+    let str = `🟢ʙᴀɴɴᴏ ᴍᴅ ᴜᴘᴛɪᴍᴇ\n\n🎗️ʙᴏᴛ ᴀᴄᴛɪᴠᴇ ᴅᴜʀᴀᴛɪᴏɴ\n *${muptime}⏰*`
     conn.sendMessage(m.chat, {
       text: str,
       contextInfo: {
@@ -24,8 +24,8 @@ m.react('⏳')
             },
       forwardingScore: 999,
       externalAdReply: {
-      title: "🎗️ᴘʀɪɴᴄᴇ ᴍᴅ🎗️",
-      body: "ʀᴜɴɪɴɢ sɪɴᴄᴇ",
+      title: "🎗️ʙᴀɴɴᴏ ᴍᴅ🎗️",
+      body: "ʀᴜɴɪɴɢ ʙᴀɴɴᴏ",
       thumbnailUrl: pp,
       sourceUrl: '',
       mediaType: 1,

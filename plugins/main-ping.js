@@ -12,7 +12,7 @@ let handler = async (m, { conn }) => {
           *${mssg.ping}* : ${latensi.toFixed(4)} 
           
           
-          *𝗧𝗛𝗘-𝗕𝗔𝗡𝗡𝗢-𝗕𝗢𝗧*`);
+          *𝙏𝙃𝙀-𝘼𝙉𝙎𝙃-𝘽𝙊𝙏*`);
             });
 }
 handler.help = ['ping']
